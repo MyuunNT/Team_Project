@@ -1,20 +1,6 @@
 
 #include <stdio.h>
 
-// Function for addition
-double add(double a, double b) {
-    return a + b;
-}
-
-// Function for subtraction
-double sub(double a, double b) {
-    return a - b;
-}
-
-// Function for multiplication
-double mul(double a, double b) {
-    return a * b;
-}
 
 // Function for division (with zero check)
 double div(double a, double b) {
@@ -41,13 +27,13 @@ int main() {
 
     switch (op) {
         case '+':
-            result = add(num1, num2);
+           //result = add(num1, num2);
             break;
         case '-':
-            result = sub(num1, num2);
+            //result = sub(num1, num2);
             break;
         case '*':
-            result = mul(num1, num2);
+            //result = mul(num1, num2);
             break;
         case '/':
             result = div(num1, num2);
@@ -59,4 +45,6 @@ int main() {
 
     printf("Result: %g\n", result);
     return 0;
+    //coba kek gimana tes tes tes
 }
+ 
