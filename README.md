@@ -4,5 +4,3 @@
 2. Calista Aqila Ramadhani = Minus
 3. Maxi Million = Multiply
 4. Ahmad Madany = Sum
-
-test
